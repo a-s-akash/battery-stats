@@ -60,8 +60,9 @@ Tooltip text: [shows the battery status with percentage]
 ![draining](https://github.com/a-s-akash/battery-stats/assets/149227673/67257d67-e6c4-40cd-a997-ef79e6182544)
 (on hover the icon)
 
-Quit the App: [Right-click on the icon to quit the app]
+Quit the App: [Right-click on the icon to open the menu]
 
 ![exit](https://github.com/a-s-akash/battery-stats/assets/149227673/871108f5-9299-45ab-b77f-bdcbf32821b1)
+(choose quit to shut the app)
 
 
