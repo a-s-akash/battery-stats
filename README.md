@@ -38,6 +38,5 @@ While plugged in: [remains same color for all battery level when plugged in]
 
 Get Notified when your battery fully charged: [you may unplug the charger]
 
-![when_fully_charged](https://github.com/a-s-akash/battery-stats/assets/149227673/2df43639-69a0-4d14-a589-a827668cd5b9)
-
+![when_fully_charged](https://github.com/a-s-akash/battery-stats/assets/149227673/5ec13b47-3d67-4cef-8e63-146ac3bf4956)
 
