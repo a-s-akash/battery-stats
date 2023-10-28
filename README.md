@@ -13,3 +13,4 @@ Dynamic color and text changes based on the battery's status.
 Notifications for full charge and critically low battery.
 Simple system tray menu with an "Exit" option for ease of use.
 
+![bgbg](https://github.com/a-s-akash/battery-stats/assets/149227673/3a747619-a4ab-4bfb-840a-40ae35f71b0e)
