@@ -3,9 +3,20 @@ A system tray app for instant battery percentage, color-coded status, and notifi
 
 Description:
 ============
-The project is a system tray application that provides real-time information about your computer's battery status. It uses the PyQt5 library for the graphical user interface and integrates with system resources and notifications. The application displays a battery icon in the system tray, and the icon's color and text change dynamically based on the battery's charge level and power status. Additionally, it notifies the user when the battery is fully charged or reaches a critically low level. Users can access an "QUIT" option from the system tray menu to close the application.
+The project is a system tray application that provides real-time information about your computer's battery status. 
+
+It uses the PyQt5 library for the graphical user interface and integrates with system resources and notifications. 
+
+The application displays a battery icon in the system tray, and the icon's color and text change dynamically based on the battery's charge level and power status. 
+
+Additionally, it notifies the user when the battery is fully charged or reaches a critically low level. Users can access an "QUIT" option from the system tray menu to close the application.
+
 The project offers a convenient way for users to monitor their laptop's battery status and receive important notifications, helping them manage their device's power more effectively.
-When you hover over the icon in the system tray, this application provides at-a-glance information about your laptop's battery status. It clearly indicates whether your battery is 'Gaining' (charging) or 'Draining' (discharging), ensuring you stay informed about the current power situation.
+
+When you hover over the icon in the system tray, this application provides at-a-glance information about your laptop's battery status. 
+
+It clearly indicates whether your battery is 'Gaining' (charging) or 'Draining' (discharging), ensuring you stay informed about the current power situation.
+
 Right-clicking on the icon in the system tray allows you to access a menu, providing an option to quit the app.
 
 Key Features:
@@ -68,5 +79,9 @@ Quit the App: [Right-click on the icon to open the menu]
 Additional Files:
 =================
 Includes "runner.bat" and "RunScript.vbs" for running the Python program seamlessly without the console, providing an app-like experience.
-[To run the app, all the necessary files must be placed in a single folder, and you should execute "RunScript.vbs" each time instead of directly running the Python file.
-To ensure automatic startup of this application every time you boot your PC, simply place the RunScript.vbs file in the startup folder, located at 'C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup']
+
+To run the app, all the necessary files must be placed in a single folder, and you should execute "RunScript.vbs" each time instead of directly running the Python file.
+
+To ensure automatic startup of this application every time you boot your PC, simply place the RunScript.vbs file in the startup folder, located at 
+
+'C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'
