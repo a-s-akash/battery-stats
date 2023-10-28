@@ -55,9 +55,9 @@ Get Notified when your battery level is low: [Useful to prevent from shutting do
 
 Tooltip text: [shows the battery status with percentage]
 
-![draining](https://github.com/a-s-akash/battery-stats/assets/149227673/67257d67-e6c4-40cd-a997-ef79e6182544)
-
 ![gaining](https://github.com/a-s-akash/battery-stats/assets/149227673/b58c15e3-23f2-4303-8585-2bbb3df375a0)
+
+![draining](https://github.com/a-s-akash/battery-stats/assets/149227673/67257d67-e6c4-40cd-a997-ef79e6182544)
 (on hover the icon)
 
 Quit the App: [Right-click on the icon to quit the app]
