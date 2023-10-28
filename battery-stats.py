@@ -38,7 +38,7 @@ def battery_box(battery):
         r1, g1, b1, r2, g2, b2 = 0, 170, 255, 0, 0, 0
         if text == ' F' and is_shown_full == 0:
             # Show a notification for a fully charged battery
-            notification.notify(title="Battery-Stats", message="Fully Charged (100%)", timeout=10, toast=False)
+            notification.notify(title="Battery-Stats", message="Fully Charged (100%)", timeout=5)
             is_shown_full = 1
     else:
         if text == ' F' or int(text) > 30:
@@ -49,13 +49,13 @@ def battery_box(battery):
             r1, g1, b1, r2, g2, b2 = 255, 0, 0, 255, 255, 255
             if is_shown_critical == 0:
                 # Show a notification for a critically low battery
-                notification.notify(title="Battery-Stats", message="Critically low (plug immediately)", timeout=10, toast=False)
+                notification.notify(title="Battery-Stats", message="Critically low (plug immediately)", timeout=5)
                 is_shown_critical = 1
         else:
             r1, g1, b1, r2, g2, b2 = 255, 165, 0, 0, 0, 128
             if is_shown_plug == 0:
                 # Show a notification to plug in to prevent critical battery level
-                notification.notify(title="Battery-Stats", message="Plugin to prevent critical battery level", timeout=10, toast=False)
+                notification.notify(title="Battery-Stats", message="Plugin to prevent critical battery level", timeout=5)
                 is_shown_plug = 1
 
     # Customize the system tray icon
