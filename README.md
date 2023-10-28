@@ -11,8 +11,11 @@ Right-clicking on the icon in the system tray allows you to access a menu, provi
 Key Features:
 =============
 Real-time battery percentage display in the system tray.
+
 Dynamic color and text changes based on the battery's status.
+
 Notifications for full charge and critically low battery.
+
 Offers a simple system tray interface for ease of use.
 
 Different Status:
