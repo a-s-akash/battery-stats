@@ -1,2 +1,2 @@
 @echo off
-python code.py
+python battery-stats.py
