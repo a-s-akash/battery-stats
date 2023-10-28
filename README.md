@@ -13,4 +13,26 @@ Dynamic color and text changes based on the battery's status.
 Notifications for full charge and critically low battery.
 Simple system tray menu with an "Exit" option for ease of use.
 
-![bgbg](https://github.com/a-s-akash/battery-stats/assets/149227673/3a747619-a4ab-4bfb-840a-40ae35f71b0e)
+Different Status:
+=================
+
+When your battery percent is less than 10: (RED color)
+![less_than_10](https://github.com/a-s-akash/battery-stats/assets/149227673/03affbec-89ca-499b-ae90-32c24a6f7d29)
+[definitely you need to plug in]
+
+When your battery percent is less than 30: (ORANGE color)
+![less_than_30](https://github.com/a-s-akash/battery-stats/assets/149227673/d31ca782-ec16-4b82-bbca-f3e85ae8c8e4)
+[its the safer zone to plug in]
+
+When your battery percent is more than 30: (GREEN color)
+![more_than_30](https://github.com/a-s-akash/battery-stats/assets/149227673/bc35d7b1-f603-496d-ba2b-a39f2acd2cbf)
+[for battery percent 30-100]
+
+While plugged in: (BLUE color)
+![while_plugged](https://github.com/a-s-akash/battery-stats/assets/149227673/dab73108-27ce-4662-b341-a323d99cc716)
+[remains same color for all battery level why plugged in]
+
+Get Notified when your battery fully charged:
+![when_fully_charged](https://github.com/a-s-akash/battery-stats/assets/149227673/dde0450b-ab3d-4a38-88b5-169b7c8d37c2)
+[you may unplug the charger]
+
