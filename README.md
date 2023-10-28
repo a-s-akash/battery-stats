@@ -7,6 +7,7 @@ The project is a system tray application that provides real-time information abo
 The project offers a convenient way for users to monitor their laptop's battery status and receive important notifications, helping them manage their device's power more effectively.
 When you hover over the icon in the system tray, this application provides at-a-glance information about your laptop's battery status. It clearly indicates whether your battery is 'Gaining' (charging) or 'Draining' (discharging), ensuring you stay informed about the current power situation.
 Right-clicking on the icon in the system tray allows you to access a menu, providing an option to quit the app.
+
 Key Features:
 =============
 Real-time battery percentage display in the system tray.
